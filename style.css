@@ -56,6 +56,9 @@ p, h2{
 .title{
     font-weight: 800;
 }
+.title:hover{
+    color: var(--primary_color);
+}
 .detail{
     color: var(--grey_color);
 }
